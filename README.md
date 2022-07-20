@@ -6,7 +6,7 @@ Mobile Developer #FlutterDev
 
 * 🌍  I'm based in Iquitos - Peru 🇵🇪
 * ✉️  You can contact me at [angelo.anked@gmail.com](mailto:angelo.anked@gmail.com)
-* 🚀  I'm currently working on [BufeoTec](http://bufeotec.com)
+* 🚀  I'm currently working on [Tyba](https://tyba.pe/)
 * 🧠  I'm learning Flutter, React Js
 
 <a href="https://www.twitter.com/angelo_anked" target="_blank" rel="noreferrer"><img
